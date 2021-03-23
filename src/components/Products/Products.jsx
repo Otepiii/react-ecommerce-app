@@ -5,7 +5,7 @@ import Product from './Product/Product'
 
 const products = [
     {id: 1, name: "Shoes", description: "Running shoes.", price: "$5", image: 'https://images.pexels.com/photos/19090/pexels-photo.jpg?cs=srgb&dl=pexels-web-donut-19090.jpg&fm=jpg'},
-    {id: 2, name: "Macbook", description: "Apple macbook.", price: "1000", image: 'https://images.pexels.com/photos/191158/pexels-photo-191158.jpeg?cs=srgb&dl=pexels-markus-spiske-191158.jpg&fm=jpg'}
+    {id: 2, name: "Macbook", description: "Apple macbook.", price: "$1000", image: 'https://images.pexels.com/photos/191158/pexels-photo-191158.jpeg?cs=srgb&dl=pexels-markus-spiske-191158.jpg&fm=jpg'}
 ];
 
 const Products = () => {
